@@ -1,0 +1,10 @@
+O workflow está em:
+.github/workflows/build-apk.yml
+
+No GitHub:
+1. Crie um repositório novo.
+2. Envie TODO o conteúdo desta pasta para a raiz do repositório.
+3. Abra Actions.
+4. Abra "Compilar APK - Lotofacil Falhas V1".
+5. Clique em Run workflow / Executar fluxo de trabalho.
+6. Ao terminar, baixe o artefato LOTOFACIL-FALHAS-V1-APK.

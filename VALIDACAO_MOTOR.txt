@@ -1,0 +1,13 @@
+VALIDAÇÃO DO MOTOR
+==================
+
+1. MotorCore.java compilado com javac Java 17: OK.
+2. Teste sintético: 260 concursos: OK.
+3. Saída do teste:
+   - 10 falhas: OK
+   - 15 dezenas do jogo: OK
+   - 25 dezenas únicas entre falhas + jogo: OK
+4. Backtest cego, Pareto, perfis, repetição e refinamento executados: OK.
+5. PDF Android usa PdfDocument e MediaStore.Downloads para gravar na pasta Download.
+
+Observação: APK completo será compilado no GitHub Actions com SDK Android 35.
